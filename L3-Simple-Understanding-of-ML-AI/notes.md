@@ -50,7 +50,9 @@ Not only about the result, but also understanding the "thinking" process.
 
 ### The Second AI "Trough" (1987-1993)
 
+### The "Growth" Boom (1993-presnet)
 
+## The Relationship Between AI and ML
 
 
 
