@@ -28,22 +28,27 @@
 ![image](https://user-images.githubusercontent.com/70875733/137575886-e527217c-40c0-4d4c-9b87-55702ab3f025.png)
 
 ## The Definition of the loss function
-* The distance from any point to the hyperplane:
-* The misclassified points: 
-* The distance from a misclassified point to the hyperplane:
-* The total distance from misclassiffied points to the hyperplane: 
-* The loss function:
-* The optimization goal:
+![image](https://user-images.githubusercontent.com/70875733/137595440-346eb102-026e-4197-a346-967555def362.png)
+
 
 ## Optimization Algorithm
-* The most common optimization algorithm is **Stochastic Gradient Descent (SGD)**
-* At first, we calculate the derivative of the optimization function:
-* And then, we randomly select a misclassified point ($x_i, y_i$) to update $w$ and $b$: $w <- w + \mu y_i x_i$
-* Then $\mu (0 < \mu <= 1)$ is the learning rate.
-* Other optimization algorithms: Adagrad, RMSprop, Adam, ...
+![image](https://user-images.githubusercontent.com/70875733/137595431-dcdd4a5f-fdb1-43d3-9b29-dece247b0c0f.png)
+
 
 # Algorithm of the Perceptron
-
+![image](https://user-images.githubusercontent.com/70875733/137595308-9f7ddec8-fcf2-4b47-bb55-5ab651e1a9ef.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/70875733/137595321-06ea16c0-ca1e-48c3-bacb-4ccd8aece772.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/70875733/137595334-7c0d8d9f-7ff5-4113-9d83-bc74d744b478.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/70875733/137595354-cbbd3377-93b6-4e3e-8bf5-ae1f06b810fb.png)
 
 # The Convergence of the Perceptron
+![image](https://user-images.githubusercontent.com/70875733/137595364-c4221931-3dd1-4059-841e-56e9704f84f8.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/70875733/137595374-a153b286-434a-4c24-b81c-be83b834bb2c.png)
+
+
 # The Dual Form of the Perceptron
+![image](https://user-images.githubusercontent.com/70875733/137595384-bd403e99-1af6-4137-bb0e-b78f098349f0.png)
