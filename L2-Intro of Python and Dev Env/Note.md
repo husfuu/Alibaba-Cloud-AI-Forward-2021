@@ -48,8 +48,44 @@ Python can be embedded in C and C++ to provide scripting functionality to them.
 * hard to encript | Unlike compiled languages where the code is compiled into an executable, Python runs the code directly, so it's more difficult to encrypt the code.
  
  ### The Zen of Python
- [gambar]
+ ![image](https://user-images.githubusercontent.com/70875733/137636980-532a3b64-0277-4010-abce-74438fb158a2.png)
  
+ ### Python vs Java
+ * Compile execution and interpreted execution
+ 	* Java: the compiles the source code into a target program ar once, and the the machine runs the target program.
+ 	* Python: The source code is directly input as the source program, and the interpreter submits the source code to the computer for execution, line by line, without creating an executable program.
+ 	
+ * Everything is an object in Python
+ 	* Python: various data types, functions,modules, based on Python Object.
+	* Java: functions, basic data types are not objects
+ * Code blocking methods
+ 	* Java: Code blocks are split by curly bracket to express the programming logic program.
+ 	* Python: Separating blocks of code by indentation.
+ * Portability
+ 	* Python: Execute while interpreting. Pyton interpreter needs to be installed on the OS to execute the Python code.
+ 	* Java: developed independently, compiled once, and executed multiple times, relies on java virtual machine.
+ * Application Scenarious
+ 	* Java: suitable for developing large business systems with complex business logic, e.g., banking software, ARP, etc.
+ 	* Python: For lightweight web development and data analysis tasks, e.g., scientific computing, AI algorithms, etc.
+
+### Python vs R
+* Python
+	* Sharp tool for ML
+	* Easy programming
+	* High engineering capability
+	* Processing speed
+	* Web Crawlers (scrapping)
+	* database connection
+	* content management system
+	* API building
+* R
+	* FOcus on statistics and inference
+	* Lack of generality
+	* Poor eco-activity and standardization
+	* Slow processing speed
+	* Statistical analysis
+	* interactive charts/panels	
+	
  <hr>
 
 ## Python Development Environment and Package Management
@@ -79,7 +115,16 @@ Python can be embedded in C and C++ to provide scripting functionality to them.
 ## Setup Python Environment on ECS
 * ECS : Elastic Compute Service from Alibaba Cloud
 <br>
-[gambar]
+
+![image](https://user-images.githubusercontent.com/70875733/137637468-bd81e35a-e0a7-40c4-8679-3ec97002941b.png) <br><br>
+![image](https://user-images.githubusercontent.com/70875733/137637499-dc9c2fdb-e545-424e-b677-f3438d6ac7ef.png) <br><br>
+![image](https://user-images.githubusercontent.com/70875733/137637515-51f6f8d1-3d7f-4f05-a889-86ff11b1ad0f.png) <br><br>
+![image](https://user-images.githubusercontent.com/70875733/137637543-430008bb-b702-4f94-8a55-4402004cd64b.png) <br><br>
+![image](https://user-images.githubusercontent.com/70875733/137637578-22643912-24c8-432d-84d6-dfdb3ff66fd0.png) <br><br>
+![image](https://user-images.githubusercontent.com/70875733/137637595-a50a6fd1-10ab-4bd7-bd92-7d64717da7cc.png) <br><br>
+![image](https://user-images.githubusercontent.com/70875733/137637599-3966b482-df75-4e99-b9e2-871ac2ba642b.png) <br><br>
+![image](https://user-images.githubusercontent.com/70875733/137637606-eff043e7-4041-409b-9b91-4fc9f3b2109f.png) <br><br>
+
  
  ## Python Example Program: Echo
  ### Python Example 1 | Echo
