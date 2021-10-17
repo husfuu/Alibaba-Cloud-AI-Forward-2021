@@ -12,11 +12,12 @@ Introduces the basics of machine learning and the key steps of a machine learnin
         * P | The number of emails correctly classified as spam/ not spam
 
 # The Process of Machine Learning
-[gambar]
+![image](https://user-images.githubusercontent.com/70875733/137637717-7cc38435-f53a-4fc8-9bf4-897381712753.png)<br><br>
 
 * **Collect Data**: the quality and quantity of collected data will directly determine whether the prediction model can be built.
 * **Train Model**: Iterate many times until performance is acceptable.
 * **Evaluate Model**: 
-[gambar]
+![image](https://user-images.githubusercontent.com/70875733/137637758-26c247d2-8c98-4e23-b1a6-6620e3d72a33.png)
+
 * **Deploy Model**: Deploy into a production environment
-[gambar]
+![image](https://user-images.githubusercontent.com/70875733/137637775-e01cf039-06db-4b4e-a435-9c7458b90e75.png)
