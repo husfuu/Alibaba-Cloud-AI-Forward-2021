@@ -25,11 +25,12 @@
 # Model
 ## The Model of the Perceptron
 ![image](https://user-images.githubusercontent.com/70875733/137575874-b9520f59-96c0-49ce-8bf8-c977a92ab37d.png) <br><br>
-![image](https://user-images.githubusercontent.com/70875733/137575886-e527217c-40c0-4d4c-9b87-55702ab3f025.png)
+![image](https://user-images.githubusercontent.com/70875733/137665434-cf96d659-9774-45f2-8f9a-c3818c299c71.png) <br><br>
+![image](https://user-images.githubusercontent.com/70875733/137665372-c98d9716-a210-42ab-a14d-fc3df36bb68c.png)
+
 
 ## The Definition of the loss function
-![image](https://user-images.githubusercontent.com/70875733/137595440-346eb102-026e-4197-a346-967555def362.png)
-
+![image](https://user-images.githubusercontent.com/70875733/137680135-38284082-b4f4-492d-9d7e-ef173112ff42.png)
 
 ## Optimization Algorithm
 ![image](https://user-images.githubusercontent.com/70875733/137595431-dcdd4a5f-fdb1-43d3-9b29-dece247b0c0f.png)
@@ -38,10 +39,13 @@
 # Algorithm of the Perceptron
 ![image](https://user-images.githubusercontent.com/70875733/137595308-9f7ddec8-fcf2-4b47-bb55-5ab651e1a9ef.png)
 <br><br>
-![image](https://user-images.githubusercontent.com/70875733/137595321-06ea16c0-ca1e-48c3-bacb-4ccd8aece772.png)
+![image](https://user-images.githubusercontent.com/70875733/137679920-683ca2f1-c83b-491f-b7fe-09469554e19d.png)
 <br><br>
-![image](https://user-images.githubusercontent.com/70875733/137595334-7c0d8d9f-7ff5-4113-9d83-bc74d744b478.png)
+![image](https://user-images.githubusercontent.com/70875733/137680014-dbee2dad-7479-4ea0-a3c5-b8a6a948561f.png)
 <br><br>
+![image](https://user-images.githubusercontent.com/70875733/137680080-d6979a9b-ca88-4608-8e0e-85bb740fa341.png)
+<br><br>
+
 ![image](https://user-images.githubusercontent.com/70875733/137595354-cbbd3377-93b6-4e3e-8bf5-ae1f06b810fb.png)
 
 # The Convergence of the Perceptron
