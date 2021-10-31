@@ -6,12 +6,13 @@
 * [Python Example Program: Echo](#history-of-Python)
 
 ## History of Python
-[gambar]
+[![image](https://user-images.githubusercontent.com/70875733/139588406-be9be972-8ade-4fef-ae7f-c48b78b0e1b9.png)
 ### Why Python
 * Python is an interpreted, object-oriented, dynamic, high level programming language
 * Python is the language of choice for data analyst and the language of choice for smart hardware.
 
 ### The Birth of the Python Language
+![image](https://user-images.githubusercontent.com/70875733/139588386-f93db9ab-219f-4536-a97d-cf737a689301.png)
 
 ### Python 2.X VS 3.X
 * Python 2.0 was released in October 2000 amd as of 2022 python2 will no longer be maintained
@@ -101,15 +102,20 @@ Python can be embedded in C and C++ to provide scripting functionality to them.
 	* **Runtime environment** is  the environment that a Python program depends on so that it is possible to run on a computer system.
 	* **Python development environment**: the environment inside which we can develop Python programs, and usually provides a run-time environment.
  ### IPython | Python Development Environment
- [gambar]
+ ![image](https://user-images.githubusercontent.com/70875733/139588681-6194ff28-8e35-4d45-afba-93f29dc0278a.png)
 
  ### Qt Console | Python Development Environment
+![image](https://user-images.githubusercontent.com/70875733/139588698-493fe2f6-d8c7-4104-9e7e-6b9c4a0f99f0.png)
 
  ### Jupyter | Python Development Environment
+![image](https://user-images.githubusercontent.com/70875733/139588716-3330c6f5-c0ba-4c1c-9c58-5a917e833992.png)
 
  ### PyCharm & Spyder | Integrated Development Environment (IDE)
  * **An integrated development environment** is a dekstop software and it provides all the tools for development, from source code writing, running and debugging the program, even package management.
+ ![image](https://user-images.githubusercontent.com/70875733/139588776-57acc22c-881e-4303-be04-73622dc85099.png)
+
  ### Anaconda | Python Development Environment and Package Management Tool
+![image](https://user-images.githubusercontent.com/70875733/139588806-4a1d5810-9b94-4835-8fec-241f0b83ac8a.png)
 
 
 ## Setup Python Environment on ECS
